@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Památky UNESCO v ČR</name>
+    <description/>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Vrstva bez názvu</name>
+      <Placemark>
+        <name>Historické jádro Prahy</name>
+        <description>Tato městská rezervace patří k největším na světě. Celkem je zde 1322 památkově chráněných objektů. Rezervace zahrnuje Staré Město, Malou Stranu, Hradčany, Nově Město a Pražský Hrad Web: www.praha.eu</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            14.4241319416667,50.0878377777778,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Historické jádro Českého Krumlova</name>
+        <description>Městská památková rezervace zahrnuje přes 300 gotických a renesančních budov, rozprostírajících se kolem původně gotického hradu na březích Vltavy. www.castle.ckrumlov.cz/docs/cz/zamek_oinf_sthrza.xml</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            14.3152075,48.8109080527778,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Holašovice</name>
+        <description>Obec Holašovice je unikátní nezachovalejší jihočeskou lidovou architekturou z 18. a 19. století. Jádrem obce je náves, jíž obepíná 17 statků s typickými štíty jihočeského baroka. www.holasovice.eu</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            14.2725855555556,48.9695830555556,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lednicko-valtický areál</name>
+        <description>Lednicko-valtický areál patří mezi největší upravované krajiny v Evropě. Vznikal od 17. století, kdy Knížata z Liechtensteinu proměnila svá panství v jeden velký park. V areálu je jak barokní tak novogotická architektura a drobnější stavby postavené v romantickém slohu, např. známý Minaret. www.zamek-lednice.info</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            16.8055556,48.8015164,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vila Tugendhat</name>
+        <description>Tato brněnská vila je posledním dílem Ludwiga Miese van der Rohe v Evropě, než se odstěhoval do USA. Vila byla vyprojektována roku 1928. Jedná se o jedinečné dílo funkcionalistické architektury. Vila má tři podlaží a je částečně zapuštěná do svažitého terénu. www.tugendhat-villa.cz</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            16.6161147222222,49.2072358333333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Historické jádro Telče</name>
+        <description><![CDATA[Město bylo vystavěno po velkém požáru ve 14. století. Jsou zde zachovány pozůstatky pozdně gotického opevnění. Náměstí Zachariáše z Hradce je lemováno souborem gotických a renesančních měšťanských domů s podloubími. Domy mají renesanční, barokní a klasicistní štíty.<br> www.telc-etc.cz/telc]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            15.4527533330556,49.1841761108333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Poutní kostel sv. Jana Nepomuckého na Zelené hoře u Žďáru nad Sázavou</name>
+        <description>Poutní kostel byl postaven v první polovině 18. století. Je dílem architekta Santiniho a jedná se o tzv. barokní gotiku. Kostel má tvar pěticípé hvězdy a je obklopen hřbitovem s ambity s kaplemi pro poutnické modlitby. www.zelena-hora.cz</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            15.9419444444445,49.5801583333333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Židovské město a basilika sv. Prokopa v Třebíči</name>
+        <description><![CDATA[Románsko-gotická bazilika sv. Prokopa pochází z poloviny 13. století. Židovské ghetto zahrnuje Židovskou čtvrť, kde je více než 120 domů a rozsáhlý hřbitov s 11 000 hroby a 3 000 kamennými náhrobky.<br>http://www.turistik.cz/cz/kraje/vysocina/okres-trebic/trebic/bazilika-sv-prokopa-a-zidovska-ctvrt/]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            15.88014,49.2148063861111,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kroměříž</name>
+        <description>Zámek v Kroměříži pochází z 18. století. Je výjimečnou ukázkou středoevropského barokního zámeckého sídla. K zámku patří také dvě zahrady. www.mesto-kromeriz.cz</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            17.3929916666666,49.3001141666667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sloup Nejsvětější Trojice v Olomouci</name>
+        <description>Sloup, který byl vztyčen v 18. století, je vysoký 35 metrů. Sloup je vyzdoben řadou barokních soch a jedná se tak o největší barokní seskupení soch ve střední Evropě. https://cs.wikipedia.org/wiki/Sloup_Nejsv%C4%9Bt%C4%9Bj%C5%A1%C3%AD_Trojice_(Olomouc)</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            17.2504247219445,49.5939416638889,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Litomyšl</name>
+        <description>Arkádový zámek v Litomyšli vychází z italské renesance. I přes různé stavební úpravy si zachoval vzhled z dob renesance včetně unikátní sgrafitové výzdoby. www.litomysl.cz</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            16.3127666666667,49.8732524972222,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Historické jádro Kutné Hory</name>
+        <description><![CDATA[Historické jádro Kutné Hory s pozdně gotickým chrámem svaté Barbory a katedrálou Panny Marie v Sedlci je ukázkou středověké urbanistické struktury s řadou dochovaných gotických, renesančních a barokních domů.<br>Web: www.kutnahora.cz]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            15.2681647222222,49.9483894444444,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Vodní elektrárny v ČR</name>
+    <description/>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0288D1-nodesc-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-nodesc-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Vrstva bez názvu</name>
+      <Placemark>
+        <name>Přečerpávací vodní elektrárna Dlouhé stráně</name>
+        <description>Přečerpávací vodní elektrárna Dlouhé stráně je přečerpávací vodní elektrárna společnosti ČEZ vybudovaná v Hrubém Jeseníku v katastrálním území Rejhotice obce Loučná nad Desnou v okrese Šumperk, uvnitř CHKO Jeseníky. Jedná se o nejvýkonnější vodní elektrárnu v Česku – její instalovaný výkon je 2 × 325 MW. Zdroj: https://cs.wikipedia.org/wiki/P%C5%99e%C4%8Derp%C3%A1vac%C3%AD_vodn%C3%AD_elektr%C3%A1rna_Dlouh%C3%A9_str%C3%A1n%C4%9B</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            17.1794653,50.0854244,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vodní elektrárna Dalešice</name>
+        <description>Přečerpávací vodní elektrárna Dalešice se nachází pod hrází vodní nádrže Dalešice a spolu s ní tento energetický komplex tvoří vodní nádrž Mohelno. Výkon dosahuje 4×120 MW. Je součástí komplexu Dukovany. Pro veřejnost je v areálu elektrárny umístěno informační centrum. Zdroj: https://cs.wikipedia.org/wiki/P%C5%99e%C4%8Derp%C3%A1vac%C3%AD_vodn%C3%AD_elektr%C3%A1rna_Dale%C5%A1ice</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            16.124208,49.1244792,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vodní elektrárna Orlík</name>
+        <description>Vodní elektrárna Orlík je umístěna v levé části řeky u paty betonové hráze vodní nádrže Orlík na Vltavě. Do provozu byla uvedena v letech 1960–1961. Zdroj:https://cs.wikipedia.org/wiki/Vodn%C3%AD_elektr%C3%A1rna_Orl%C3%ADk</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            14.1816194,49.606625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vodní elektrárna Slapy</name>
+        <description>Vodní elektrárna Slapy je umístěna na vodní nádrži Slapy na Vltavě, asi 25 km jižně od Prahy. Patří mezi první elektrárny budované po II. světové válce. Byla budována od roku 1949 a spuštěna do provozu v roce 1956. Zdroj: https://cs.wikipedia.org/wiki/Vodn%C3%AD_elektr%C3%A1rna_Slapy</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            14.434233,49.823697,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vodní elektrárna Lipno</name>
+        <description>Vodní elektrárna Lipno I byla uvedena do provozu roku 1959 a nachází se v podzemí v blízkosti hráze vodní nádrže Lipno na Vltavě v Jihočeském kraji. Je vybavena dvěma Francisovými turbínami o výkonu po 60 MW. Energie je vedena kabely na povrch do transformátoru a rozvodny. Zdroj: https://cs.wikipedia.org/wiki/Vodn%C3%AD_elektr%C3%A1rna_Lipno_I</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            14.237454,48.6334489,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Přečerpávací vodní elektrárna Štěchovice</name>
+        <description>Přečerpávací vodní elektrárna Štěchovice pracuje mezi vodní nádrží Štěchovice a vodní nádrží Homole na stejnojmenném kopci. Elektrárna byla zprovozněna v roce 1947, odstavena pro zastaralost v roce 1991. V letech 1992 - 1996 proběhla výstavba nové elektrárny používající nádrž na Homoli a velkou část přivaděčů vody. Nová elektrárna je vybavena reverzní Francisovou turbínou o výkonu 45 MW. Zdroj: https://cs.wikipedia.org/wiki/P%C5%99e%C4%8Derp%C3%A1vac%C3%AD_vodn%C3%AD_elektr%C3%A1rna_%C5%A0t%C4%9Bchovice</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            14.4176674,49.8405565,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vodní elektrárna Kamýk</name>
+        <description>Vodní elektrárna Kamýk je průtočná vodní elektrárna na řece Vltavě provozovaná společností ČEZ. Nachází se v hrázi Kamýcké přehrady. Přehrada má šířku 15 m, délku 85 m a výšku 12 m. Byla uvedena do provozu roku 1961. Vodní elektrárna využívá čtyři Kaplanovy turbíny o výkonech 10 MW. Její provoz je dálkově řízen ze Štěchovic, kde se nachází centrální dispečink Vltavské kaskády. Pracuje v tandemu s elektrárnou Orlík, jejíž vlastní spotřebu také zajišťuje. Zdroj: https://cs.wikipedia.org/wiki/Vodn%C3%AD_elektr%C3%A1rna_Kam%C3%BDk</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            14.2467777,49.6336444,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vodní elektrárna Štěchovice I	</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            14.4219308,49.846483,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vodní elektrárna Střekov</name>
+        <description>Vodní elektrárna Střekov je součástí střekovského zdymadla na řece Labe. Její provoz byl zahájen v roce 1936. Jsou zde umístěny tři Kaplanovy turbíny a výkon elektrárny je 19,5 MW. V roce 2006 byla elektrárna modernizována. Zdroj: https://cs.wikipedia.org/wiki/Vodn%C3%AD_elektr%C3%A1rna_St%C5%99ekov</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            14.0487151,50.6399597,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vodní elektrárna Vranov</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            15.8191856,48.9068355,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vodní elektrárna Vrané</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            14.3753904,49.9373214,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vodní elektrárna Nechranice</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            13.4194458,50.371019,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

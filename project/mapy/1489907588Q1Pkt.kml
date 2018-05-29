@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Továrny Škoda Auto</name>
+    <description><![CDATA[Škoda Auto má tři hlavní výrobní závody v České republice. Kromě závodů v ČR vznikají vozy Škoda i na Slovensku, v Indii, Rusku a Číně v různých továrnách koncernu VW. Menší množství automobilů se montuje u smluvních partnerů v Kazachstánu (JSC Azia Avto, město Öskemen) a na Ukrajině (firma ZAT Evrocar, obec Solomonovo).<br><br>Následující tabulka uvádí výrobní závody a v nich vyráběné modely k datu 31. 12. 2014.]]></description>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Vrstva bez názvu</name>
+      <Placemark>
+        <name>Mladá Boleslav (Česká republika)</name>
+        <description>Vyráběné modely: Fabia, Octavia, Rapid, Seat Toledo Zdroj: https://cs.wikipedia.org/wiki/%C5%A0koda_Auto</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            14.9302483,50.421097,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kvasiny (Česká republika)</name>
+        <description>Vyráběné modely: Superb, Yeti, Kodiaq, Seat Ateca Zdroj: https://cs.wikipedia.org/wiki/%C5%A0koda_Auto</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            16.2577057,50.2048135,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vrchlabí (Česká republika)</name>
+        <description>Vyrábí se zde převodovky. Zdroj: https://cs.wikipedia.org/wiki/%C5%A0koda_Auto</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            15.6244469,50.6110228,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bratislava (Slovensko)</name>
+        <description>Vyráběné modely: Citigo Zdroj: https://cs.wikipedia.org/wiki/%C5%A0koda_Auto</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            16.9877815,48.2346212,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pune (Indie)</name>
+        <description>Vyráběné modely: Rapid Zdroj: https://cs.wikipedia.org/wiki/%C5%A0koda_Auto</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            73.8188553,18.7423446,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aurangabád (Indie)</name>
+        <description>Vyráběné modely: Octavia, Superb, Yeti Zdroj: https://cs.wikipedia.org/wiki/%C5%A0koda_Auto</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            75.4880905,19.8731272,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kaluga (Rusko)</name>
+        <description>Vyráběné modely: Fabia, Rapid Zdroj: https://cs.wikipedia.org/wiki/%C5%A0koda_Auto</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            36.3446617,54.5745493,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nižnij Novgorod (Rusko)</name>
+        <description>Vyráběné modely: Yeti, Octavia Zdroj: https://cs.wikipedia.org/wiki/%C5%A0koda_Auto</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            43.8879776,56.2422053,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Anting (Čína)</name>
+        <description>Vyráběné modely: 	Fabia, Octavia, Yeti Zdroj: https://cs.wikipedia.org/wiki/%C5%A0koda_Auto</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            121.1778259,31.2960078,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Yizheng (Čína)</name>
+        <description>Vyráběné modely: Rapid Zdroj: https://cs.wikipedia.org/wiki/%C5%A0koda_Auto</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            119.2040634,32.2894545,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ningbo (Čína)</name>
+        <description>Vyráběné modely: Octavia, Superb Zdroj: https://cs.wikipedia.org/wiki/%C5%A0koda_Auto</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            121.5464312,29.8706756,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

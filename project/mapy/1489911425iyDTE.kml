@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Nových sedm divů světa</name>
+    <description>https://cs.wikipedia.org/wiki/Nov%C3%BDch_sedm_div%C5%AF_sv%C4%9Bta</description>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Vrstva bez názvu</name>
+      <Placemark>
+        <name>Chichén Itzá</name>
+        <description><![CDATA[Chichén Itzá  je zřícenina mayského města na mexickém poloostrově Yucatán na území stejnojmenného spolkového státu Yucatán. Pochází z pozdně klasického až pozdně postklasického období (cca 600–1500). Název Chichen Itzá pochází z mayského Chich'en Itza, což znamená V ústech studny Itza. Itza byl název skupiny ekonomů a politiků. Itza je složenina dvou slov – itz – magický, kouzelný a ha – voda. V červenci roku 2007 byla zařazena do novodobého seznamu sedmi divů světa. Zdroj: https://cs.wikipedia.org/wiki/Chich%C3%A9n_Itz%C3%A1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -88.5677826,20.6842849,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Socha Krista Spasitele</name>
+        <description><![CDATA[Socha Krista Spasitele je socha na kopci Corcovado (710 m n. m.), tyčící se nad brazilským městem Rio de Janeiro. Nachází se v národním parku Tijuca a od roku 2012 je společně s dalšími přírodními památkami Ria zapsána na seznam světového kulturního dědictví UNESCO. Jedná se o symbol města a světoznámou turistickou atrakci.<br><br>Poprvé myšlenku na postavení sochy představil roku 1859 kněz Pedro Maria Boss brazilské princezně Isabele. Na dlouhou dobu však zapadla a vynořila se znovu se stým výročím vyhlášení nezávislosti země, nahrávalo ji i vybudování železnice k vrcholu hory. Tuto sochu si roku 1921 objednala arcidiecéze v Riu de Janeiru. Socha má rozpřažené ruce doširoka a tímto gestem objímá a chrání město.<br><br>Základní kámen byl položen roku 1922 a roku 1923 byl v soutěži vybrán projekt brazilského inženýra Heitora da Silvy Costy, práce započaly v roce 1926. Socha je však dílem francouzského sochaře polského původu Maximiliena Paula Landowského. Slavnostně odhalená byla 12. října 1931 jako památník brazilské nezávislosti na Portugalsku, vyhlášené roku 1822. Výstavba sochy stála 250 000 USD, přičemž většina peněz byla vybrána mezi věřícími. Socha byla posvěcena a otevřena pro veřejnost dne 12. října 1931. Velká slavnost k 50. výročí sochy se konalo za přítomnosti papeže Jana Pavla II. 12. října 1981. Zdroj: https://cs.wikipedia.org/wiki/Socha_Krista_Spasitele_(Rio_de_Janeiro)]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -43.2104872,-22.951916,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Velká čínská zeď</name>
+        <description><![CDATA[Velká čínská zeď  je starý systém opevnění táhnoucí se napříč severní Čínou. Dnešní podoba zdi byla vybudována za dynastie Ming v době od konce 14. do začátku 17. století. Jejím účelem bylo chránit Čínu před mongolskými nájezdy. Podobná opevnění proti vpádům kočovných kmenů byla však budována již v dávnějších dobách.<br><br>Zeď se táhne v délce cca 3460 km (se všemi odbočkami 8858,8 km), východní počátek má v Šan-chaj-kuan při Pochajském zálivu v provincii Che-pej na hranicích vlastní Číny a Mandžuska a končí daleko na západě u Ťia-jü-kuan v provincii Kan-su na pokraji pouště Gobi, v místech, kudy přes roztroušené oázy kdysi pokračovala západním směrem Hedvábná stezka. Nutno zdůraznit, že zeď v některých úsecích probíhá v několika liniích a vytváří odbočky (započteno do celkové délky), na jiných místech je naopak přerušena. V roce 2009 čínské úřady ohlásily, že byly nalezeny dosud neznámé zbytky čínské zdi. Celková délka zdi dnes tedy činí 8851 km. Zdroj: https://cs.wikipedia.org/wiki/Velk%C3%A1_%C4%8D%C3%ADnsk%C3%A1_ze%C4%8F]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            116.5703749,40.4319077,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Machu Picchu</name>
+        <description><![CDATA[Machu Picchu jsou ruiny předkolumbovského inckého kultovního města v peruánských Andách. Nacházejí se na horském sedle 400 metrů nad řekou Urubamba v nadmořské výšce 2430 m n. m.,[1] asi 80 km severozápadně od Cuzca. Předpokládá se, že Machu Picchu nechal postavit Pachacútec Yupanqui (1438 až 1472), Inkové začali město stavět okolo roku 1430. Město bylo později opuštěno a zcela zchátralo, i když bylo místním známo, pro zbytek světa upadlo v zapomnění. Ruiny objevil 24. července 1911 americký archeolog z Yaleovy univerzity Hiram Bingham. Ten se domníval, že nalezl pozůstatky bájného města Vilcabamba. Od svého objevení se město stalo významnou turistickou atrakcí Peru i celé Jižní Ameriky. V roce 1983 bylo zařazeno na seznam světového dědictví UNESCO. Jelikož město nebylo nikdy objeveno španělskými conquistadory, nebylo vykradeno a poničeno. Dne 7. července 2007 bylo Machu Picchu zařazeno mezi nových sedm divů světa.<br><br>Machu Picchu bylo postaveno v klasickém inckém stylu za použití kvádrového zdiva tvořeného z opracovaných na sebe položených kamenů bez použití malty či jiného pojiva. Hlavními stavbami ve městě jsou Chrám větru, Citadela a Místnost vládců. Město nemělo administrativní, vojenskou ani obchodní důležitost. Proč Inkové město postavili, nikdo přesvědčivě neprokázal.<br><br>Název města se do dnešních dní nezachoval, a tudíž byl převzat název od blízké hory Machu Picchu, která se nad ruinami tyčí (při typickém pohledu na město se nachází za zády fotografa, hora na fotografii nad městem je Huayna Picchu). Název hory pochází od místních obyvatel, kteří pod horou žili. Zdroj: https://cs.wikipedia.org/wiki/Machu_Picchu]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.5449629,-13.1631412,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Petra (město)</name>
+        <description><![CDATA[Petra je skalní město a archeologické naleziště v Jordánsku. Od roku 1985 je zařazena na seznam světového kulturního a přírodního dědictví UNESCO. V Bibli je označováno jako Selá a Arabové mu dali jméno Mojžíšovo údolí.<br><br>Město původně vzniklo jako pohřebiště v dokonale krytém místě, kde se setkávají tři údolí (Vádí al-Araba). Město bylo založeno pravděpodobně mezi 3. století př.n.l. a 1. století n.l. V tuto dobu zde žili Nabatejci a Petra se stala hlavním městem jejich království. Všechny stavby byly vytesány do pískovce. Město dosáhlo největšího rozkvětu a významu kolem roku 62 př. n. l., kdy tu žilo kolem třiceti tisíc lidí. Petru opustili poslední obyvatelé po druhém ničivém zemětřesení v 6. století n. l. Údolí upadalo postupně v zapomnění. Stala se tajemstvím místních beduínů, kteří existenci skalního města pečlivě skrývali před světem. Prvním Evropanem (od dob křižáckých výprav), jenž spatřil Královskou hrobku v Petře, byl roku 1812 švýcarský badatel a cestovatel Johann Ludwig Burckhardt, který cestoval ze Sýrie do Egypta v přestrojení za Araba. Zdroj: https://cs.wikipedia.org/wiki/Petra_(m%C4%9Bsto)]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            35.480099,30.3216634,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Koloseum</name>
+        <description><![CDATA[Koloseum  je oválný amfiteátr v centru města Říma v Itálii. Jde o největší amfiteátr, který byl kdy v římské říši postaven. Je to jedno z velkých děl římské architektury.<br><br>Nachází se východně od Fora Romana. Jeho stavba začala mezi lety 70 a 72 n. l. za římského císaře Vespasiana a byla dokončena v roce 80 n. l. za císaře Tita. Za vlády Domitiana (81–96) byly provedeny některé další úpravy. Jméno Amphitheatrum Flavium je odvozeno od Vespasianova a Titova rodového jména Flavius (tzv. gentilicia).<br><br>Původně bylo schopno pojmout 50 000 sedících diváků a bylo užíváno ke gladiátorským zápasům a veřejným podívaným. Vedle gladiátorských her se zde pořádaly i naumachie (stylizované námořní bitvy), zápasy s divou zvěří, popravy, rekonstrukce známých bitev a dramata založená na klasické mytologii. V raném středověku přestala budova sloužit k zábavě. Později byla využívána k obývání, sněmování, jako pevnost, kamenolom a křesťanská svatyně.<br><br>Ačkoliv periodicky se opakující zemětřesení a zloději kamenů z něj učinili zříceninu, dnes se stavba stala skutečným symbolem císařského Říma. Je jednou z nejpopulárnějších turistických atrakcí a stále má úzké vazby k římskokatolické církvi, protože na každý Velký pátek vede papež „Křížovou cestu“ do amfiteátru.<br><br>Koloseum je také znázorněno na italské verzi pěticentové mince. Zdroj: https://cs.wikipedia.org/wiki/Koloseum]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            12.4922309,41.8902102,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tádž Mahal</name>
+        <description>Tádž Mahal je monumentální pomník v Ágře ve státě Uttarpradéš v Indii. Nechal ho vystavět indický mogul Šáhdžahán na památku své předčasně zesnulé ženy. Od roku 1983 je Tádž Mahal součástí Seznam světového dědictví UNESCO. Budova se proslavila po celém světě a přitahovala neuvěřitelně mnoho návštěvníků. Stala se symbolem Indie. V různé denní době za různého osvětlení má zajímavé zbarvení. Ráno je barva narůžovělá, navečer mléčně bílá a zlatou se stává vždy, když na ni dopadnou měsíční paprsky. Zdá se, že se vznáší mezi nebem a zemí - jeho proporce, jeho symetrické členění, okolní zahrady a zrcadlení ve vodě se spojují v dojem, který vám okamžitě vyrazí dech. Zdroj: https://cs.wikipedia.org/wiki/T%C3%A1d%C5%BE_Mahal</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            78.0421552,27.1750151,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

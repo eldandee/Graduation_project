@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Stadiony týmů 1. Bundesligy 2016/17 </name>
+    <description><![CDATA[Rok založení:	1963<br>Počet týmů:	        18 (poslední 2 sestupují, 16. hraje baráž)<br>Liga Mistrů:	        4 (3 postupují přímo, 1 předkolo)<br>Evropská liga:	2 (přímý postup)<br>Vítěz soutěže:	hraje o německý superpohár DFL-Supercup s vítězem německého poháru DFB-Pokal<br>http://www.iconarchive.com<br>License: Free for personal desktop use only.]]></description>
+    <Style id="icon-1899-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Vrstva bez názvu</name>
+      <Placemark>
+        <name>Borussia Dortmund</name>
+        <description><![CDATA[Stadion: Signal Iduna Park<br>Kapacita: 81 260<br>Otevření: 1974 (rekonstrukce: 2006)<br>Rozměry hřiště: 105 x 68<br>Cena výstavby: 45,5 mil. € (2006)                             Zdroj: http://www.fotbalovestadiony.cz/1-bundesliga]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            7.45185694444444,51.4925888888889,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bayern Mnichov</name>
+        <description><![CDATA[Stadion: Allianz Arena<br>Kapacita: 75 024<br>Otevření: 2005<br>Rozměry hřiště: 105 x 68 m<br>Cena výstavby: 340 mil. € (10,2 mld. Kč)       Zdroj: http://www.fotbalovestadiony.cz/1-bundesliga]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            11.6247069444445,48.2188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hertha Berlin</name>
+        <description><![CDATA[Stadion: Olympiastadion<br>Kapacita: 74 500<br>Otevření: 1936 (rekonstrukce: 1974, 2004)<br>Rozměry hřiště: 105 × 68 m                               Zdroj: http://www.fotbalovestadiony.cz/1-bundesliga]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            13.2394988888889,52.5146969444444,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ernst-Kuzorra-Weg 1</name>
+        <description><![CDATA[Stadion: Veltins Arena<br>Kapacita: 61 480<br>Otevření: 2001<br>Rozměry hřiště: 105 × 68 m<br>Cena výstavby: 192 mil. € (6,3 mld. Kč)             Zdroj: http://www.fotbalovestadiony.cz/1-bundesliga]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            7.0661346,51.5544314,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hamburger SV</name>
+        <description><![CDATA[Stadion: Volksparkstadion<br>Kapacita: 57 274<br>Otevření: 1953 (rekonstrukce: 1999)<br>Rozměry hřiště: 105 × 68 m<br>Cena výstavby: ?                                                             Zdroj: http://www.fotbalovestadiony.cz/1-bundesliga]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            9.8984349,53.5869644,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bor. Mönchengladbach</name>
+        <description><![CDATA[Stadion: Borussia Park<br>Kapacita: 54 067<br>Otevření: 2004<br>Rozměry hřiště: 105 x 68 m                                         Zdroj: http://www.fotbalovestadiony.cz/1-bundesliga]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            6.3852346,51.1743926,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Eintracht Frankfurt</name>
+        <description><![CDATA[Stadion: Commerzbank-Arena<br>Kapacita: 52 300<br>Otevření: 1925 (posl. rekonstr. 1974, nový stadion: 2005)<br>Rozměry hřiště: 105 x 68 m<br>Cena výstavby: 150 mil. € - 4,5 mld. Kč (2005) Zdroj: http://www.fotbalovestadiony.cz/1-bundesliga]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            8.6453605,50.0685855,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1. FC Köln</name>
+        <description><![CDATA[Stadion: RheinEnergieStadion<br>Kapacita: 50 374<br>Otevření: 1923 (rekonstrukce: 1975, 2004)<br>Rozměry hřiště: 105 x 68 m                                     Zdroj: http://www.fotbalovestadiony.cz/1-bundesliga]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            6.875124,50.9336185,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RB Lipsko</name>
+        <description><![CDATA[Stadion: Red Bull Arena<br>Kapacita: 42 959<br>Otevření: 1956 (rekonstrukce: 2000 - 2004)<br>Rozměry hřiště: 105 x 68 m<br>Cena výstavby: ?                                                         Zdroj: http://www.fotbalovestadiony.cz/1-bundesliga]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            12.3487186,51.3457326,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Werder Brémy</name>
+        <description><![CDATA[Stadion: Weser-Stadion<br>Kapacita: 42 500<br>Otevření: 1947 (rekonstrukce: 1965, 1989, 2005, 2011)<br>Rozměry hřiště: 105 x 68 m                                   Zdroj: http://www.fotbalovestadiony.cz/1-bundesliga]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            8.8376052,53.0664328,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1. FSV Mainz 05</name>
+        <description><![CDATA[Stadion: Opel Arena<br>Kapacita: 34 000<br>Otevření: 2011<br>Rozměry hřiště: 105 x 68 m<br>Cena výstavby: 60 mil. € (1,5 mld. Kč)                 Zdroj: http://www.fotbalovestadiony.cz/1-bundesliga]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            8.2243816,49.9839442,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FC Augsburg</name>
+        <description><![CDATA[Stadion: SGL Arena<br>Kapacita: 30 660<br>Otevření: 2009<br>Rozměry hřiště: 105 x 68 m                                     Zdroj: http://www.fotbalovestadiony.cz/1-bundesliga]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            10.8854341,48.3230144,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bayer 04 Leverkusen</name>
+        <description><![CDATA[Stadion: BayArena<br>Kapacita: 30 210<br>Otevření: 1956 (rekonstrukce: 1998, 2009)<br>Rozměry hřiště: 105 x 68 m                                         Zdroj: http://www.fotbalovestadiony.cz/1-bundesliga]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            7.0022566,51.0382091,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TSG Hoffenheim</name>
+        <description><![CDATA[Stadion: Rhein-Neckar Arena<br>Kapacita: 30 150<br>Otevření: 2009<br>Rozměry hřiště: 105 x 68 m                                       Zdroj: http://www.fotbalovestadiony.cz/1-bundesliga]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            8.8876918,49.238049,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Volkswagen Arena</name>
+        <description><![CDATA[Stadion: Volkswagen Arena<br>Kapacita: 30 122<br>Otevření: 2002<br>Rozměry hřiště: 105 x 68 m                                   Zdroj: http://www.fotbalovestadiony.cz/1-bundesliga]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            10.803889,52.432639,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SC Freiburg</name>
+        <description><![CDATA[Stadion: MAGE SOLAR Stadion<br>Kapacita: 24 000<br>Otevření: 1954 (rekonstrukce: 1970, 1980, 1993, 1995, 1999)<br>Rozměry hřiště: 105 x 68 m                                       Zdroj: http://www.fotbalovestadiony.cz/1-bundesliga]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            7.8929966,47.9889632,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stadion am Böllenfalltor	</name>
+        <description><![CDATA[Stadion: Stadion am Böllenfalltor<br>Kapacita: 17 000<br>Otevření: 1921 (rekonstrukce: 1950, 1974, 2014)<br>Rozměry hřiště: 105 x 68 m                                   Zdroj: http://www.fotbalovestadiony.cz/1-bundesliga]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            8.6723778,49.857722,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FC Ingolstadt 04</name>
+        <description><![CDATA[Stadion: Audi Sportpark<br>Kapacita: 15 800<br>Otevření: 2010<br>Rozměry hřiště: 105 x 68 m                                 Zdroj: http://www.fotbalovestadiony.cz/1-bundesliga]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            11.4857571,48.745548,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
